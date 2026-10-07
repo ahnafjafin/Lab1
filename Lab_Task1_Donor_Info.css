@@ -1,0 +1,66 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 12px;
+    background-color: #ffffff;
+}
+
+.page {
+    width: 800px;
+    margin: 0 auto;
+    padding: 10px 10px;
+    background-color: #eaeaea;
+}
+
+h3 {
+    color: red;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+.red {
+    color: red;
+}
+
+.grey {
+    color: gray;
+}
+
+.center {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    padding: 3px;
+    vertical-align: top;
+}
+
+.label {
+    width: 250px;
+    text-align: right;
+    font-weight: bold;
+}
+
+small {
+    font-weight: normal;
+}
+
+input[type="text"],
+input[type="email"] {
+    width: 190px;
+}
+
+input[type="text"][size] {
+    width: auto;
+}
+
+select {
+    width: 190px;
+}
+
+textarea {
+    width: 250px;
+}
